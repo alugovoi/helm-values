@@ -1,2 +1,2 @@
 helm-guestbook:
-  replicaCount: 4
+  replicaCount: 5
